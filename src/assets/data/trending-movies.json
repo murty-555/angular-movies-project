@@ -1,0 +1,56 @@
+[
+    {
+      "id": 17,
+      "name": "The Handmaid's Tale",
+      "cover": "https://m.media-amazon.com/images/M/MV5BN2M0NTdiMGYtNmFjZi00MjIxLWI3OTUtNTdmZDRlOTNiYWU0XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+      "rating": 3.45,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Only murders in the building",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMWVkNDMzNTctNTQ0Yy00YmFiLTliNTEtMDM1ZTZjMTk1ZmM0XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+      "rating": 2.53,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nine perfect strangers",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjBkYjgxNTktZjQ0Zi00OGU5LThjOTEtOGUzMDVhNjc2MjU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "rating": 3.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Solar Opposites",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNDQyYTRjZmQtMzU4Mi00YjRhLTljYjAtOWE0NTEzYjcwNTYzXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg",
+      "rating": 4.45,
+      "reviews": [
+        {
+          "author": "Albus Dumbledore",
+          "published_on": "2021-10-13 11:27:39",
+          "review": "Awesome movie!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Shrill",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZDFlZGQ5ZjQtOGY0MC00ZjJiLWE4NTEtZWZlYTdlZjQ0ZTkwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "rating": 4.12,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Pen15",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjY2Njc3ZjUtMjk5ZS00YWZhLTkzOTYtOGUzYWJhOWNiZDg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "rating": 4.95,
+      "reviews": [
+      ]
+    }
+  ]

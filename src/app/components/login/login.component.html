@@ -1,0 +1,28 @@
+<div class="login-container">
+    <img src="assets/images/reel.png" alt="" class="logo-image" />
+  <div class="logo">Movies Project</div>
+  <div class="desc">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+    obcaecati accusantium, quibusdam error repudiandae, voluptatibus id nobis
+    voluptatum dolorum, et debitis voluptates at illum laboriosam ex maxime quis
+    corporis eligendi. Molestias, hic molestiae quam ea alias voluptatum
+    assumenda quia fugit neque, reprehenderit id delectus incidunt odio
+    obcaecati quisquam aliquid nihil quo dicta, consectetur suscipit commodi
+    itaque. Ratione eius rerum id?
+  </div>
+  <div class="login-form">
+    <p class="error-msg">{{ErrMsg}}</p>
+    <p class="success-msg">{{succesMsg}}</p>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" name="username" class="form-control" [(ngModel)]="username" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" name="password" class="form-control" [(ngModel)]="password">
+    </div>
+    <div class="btn-container">
+        <button class="btn btn-dark" (click)="login()">Login</button>
+    </div>
+  </div>
+</div>
