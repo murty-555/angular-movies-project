@@ -15,7 +15,7 @@
             <div class="movie-title"  (click)="goToMovie('trending', movie.id)">{{ movie.name }}</div>
             <!-- <div class="rating">{{movie.rating}}</div> -->
             <div class="rating">
-              <app-rating [rating]="movie.rating" [isReadOnly]="false"></app-rating>
+              <app-rating [rating]="movie.rating" [isReadOnly]="true"></app-rating>
               <span class="rating-value">{{ movie.rating }}</span>
             </div>
           </div>
